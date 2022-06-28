@@ -1,7 +1,12 @@
 <h1>Hey 👋, I'm Chiran</h1>
 <h3>A passionate Web Developer</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-chirandilanka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirandilanka@gmail.com)](mailto:chirandilanka@gmail.com) [![Github Badge](https://img.shields.io/badge/-Chiran97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Chiran97/)](https://www.github.com/Chiran97/) [![Twitter Badge](https://img.shields.io/badge/-@ChiranDilanka-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@ChiranDilanka/)](https://twitter.com/ChiranDilanka) 
+[![Gmail Badge](https://img.shields.io/badge/-chirandilanka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirandilanka@gmail.com)](mailto:chirandilanka@gmail.com) [![Github Badge](https://img.shields.io/badge/-Chiran97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Chiran97/)](https://www.github.com/Chiran97/) [![Twitter Badge](https://img.shields.io/badge/-@ChiranDilanka-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@ChiranDilanka/)](https://twitter.com/ChiranDilanka) [![Dribbble Badge](https://img.shields.io/badge/-Chiran97-00acee?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/Chiran97/)](https://dribbble.com/Chiran97) 
+
+
+
+<a href="https://dribbble.com/chiran97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chiran97" height="30" width="40" /></a>
+
 
 <p align='left'>I’m Chiran Dilanka, an IT undergraduate of University of Moratuwa in Sri Lanka. I'm passionate about Web Development.</p>
 <b>Some of my Github Stats</b></br></br>
