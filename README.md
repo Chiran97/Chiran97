@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chiran</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
+[![Gmail Badge](https://img.shields.io/badge/-chirandilanka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirandilanka@gmail.com)](mailto:chirandilanka@gmail.com) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiran97&label=Profile%20views&color=0e75b6&style=flat" alt="chiran97" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chirandilanka" target="blank"><img src="https://img.shields.io/twitter/follow/chirandilanka?logo=twitter&style=for-the-badge" alt="chirandilanka" /></a> </p>
