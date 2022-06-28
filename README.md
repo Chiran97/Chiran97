@@ -3,7 +3,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-chirandilanka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirandilanka@gmail.com)](mailto:chirandilanka@gmail.com) [![Github Badge](https://img.shields.io/badge/-Chiran97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Chiran97/)](https://www.github.com/Chiran97/) [![Twitter Badge](https://img.shields.io/badge/-@ChiranDilanka-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@ChiranDilanka/)](https://twitter.com/ChiranDilanka) 
 
-<p align='left'>I’m Chiran Dilanka, an IT undergraduate student at University of Moratuwa in Sri Lanka. I'm passionate about Web Development.</p>
+<p align='left'>I’m Chiran Dilanka, an IT undergraduate of University of Moratuwa in Sri Lanka. I'm passionate about Web Development.</p>
 <b>Some of my Github Stats</b></br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiran97&label=Profile%20views&color=0e75b6&style=flat" alt="chiran97" /> </p>
