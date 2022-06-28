@@ -5,7 +5,7 @@
 
 
 <p align='left'>I’m Chiran Dilanka, an IT undergraduate of University of Moratuwa in Sri Lanka. I'm passionate about Web Development.</p>
-<b>Some of my Github Stats</b></br></br>
+<b>Some of my Github Stats :</b></br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiran97&label=Profile%20views&color=0e75b6&style=flat" alt="chiran97" /> </p>
 
