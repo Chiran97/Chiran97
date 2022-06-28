@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chirandilanka" target="blank"><img src="https://img.shields.io/twitter/follow/chirandilanka?logo=twitter&style=for-the-badge" alt="chirandilanka" /></a> </p>
 
-- 💬 Ask me about **react, java, javascript MySQL**
+- 💬 Ask me about **React, Java, JavaScript, MySQL**
 
 - 📫 How to reach me **chirandilanka@gmail.com**
 
