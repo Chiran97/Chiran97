@@ -12,7 +12,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chiran97&show_icons=true&include_all_commits=true)](https://github.com/Chiran97/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiran97&layout=compact)](https://github.com/Chiran97/github-readme-stats) -->
 
-- 💬 Ask me about **React, Java, JavaScript, MySQL**
+- 💬 Ask me about **Java, JavaScript, MySQL**
 
 - 📫 How to reach me **chirandilanka@gmail.com**
 
