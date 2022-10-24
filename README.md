@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Chiran</h1>
+<h1>Hey 👋, I'm Chiran 👨‍💻</h1>
 <h3>A passionate Web Developer</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-chirandilanka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirandilanka@gmail.com)](mailto:chirandilanka@gmail.com) [![Github Badge](https://img.shields.io/badge/-Chiran97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Chiran97/)](https://www.github.com/Chiran97/) [![Twitter Badge](https://img.shields.io/badge/-@ChiranDilanka-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@ChiranDilanka/)](https://twitter.com/ChiranDilanka) [![Dribbble Badge](https://img.shields.io/badge/-Chiran97-ea4c89?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/Chiran97/)](https://dribbble.com/Chiran97)  [![Facebook Badge](https://img.shields.io/badge/-chiran.dilanka-3b5998?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/chiran.dilanka/)](https://facebook.com/chiran.dilanka) 
